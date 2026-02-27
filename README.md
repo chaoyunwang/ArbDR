@@ -17,7 +17,7 @@
 ---
 
 ### 📢 News
-
+* **[2026.02.27]** 📊 We have released the paper results! You can download them via [Baidu Cloud](https://pan.baidu.com/s/1aI7WpmOU8YjXGtkneknCSw?pwd=mdqd) (Access Code: `mdqd`).
 * **[2026.01.01]** 🎉 Our paper has been accepted by **IEEE Transactions on Multimedia (TMM)**!
 * **[Update]** Code is being organized and will be fully released soon.
 
